@@ -1,0 +1,88 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite this work using the metadata below."
+title: "FRESH Bioprinter — Ender 5 Pro Conversion"
+version: 0.1.0
+date-released: 2026-04-09
+license: CC-BY-SA-4.0
+doi: 10.5281/zenodo.TODO
+
+authors:
+  - family-names: Pocsveiler
+    given-names: Magor
+    affiliation: "Department of Bioengineering, Imperial College London"
+    orcid: "https://orcid.org/0009-0007-2750-0629"
+  - family-names: Rachkova
+    given-names: Vera
+    affiliation: "Department of Bioengineering, Imperial College London"
+  - family-names: Guan
+    given-names: Junyuan
+    affiliation: "Department of Bioengineering, Imperial College London"
+  - family-names: Phang
+    given-names: Hui Sin
+    affiliation: "Department of Bioengineering, Imperial College London"
+  - family-names: Seo
+    given-names: Hannah
+    affiliation: "Department of Bioengineering, Imperial College London"
+  - family-names: Ayub
+    given-names: Saad S
+    affiliation: "Department of Bioengineering, Imperial College London"
+  - family-names: Guo
+    given-names: Zifeng T
+    affiliation: "Department of Bioengineering, Imperial College London"
+  - family-names: Zhang
+    given-names: Ricky
+    affiliation: "Department of Bioengineering, Imperial College London"
+
+abstract: >
+  Open-source design files for the conversion of a Creality Ender 5 Pro desktop
+  3D printer into a syringe extrusion bioprinter capable of FRESH (Freeform
+  Reversible Embedding of Suspended Hydrogels) 3D bioprinting. The extruder is a
+  modified Replistruder 5 with a GT2 belt drive replacing the original planetary
+  gearbox, an anti-backlash nut, and preloaded carriage sliders. Motion control
+  is provided by a Duet 3 Mainboard 6HC running RepRapFirmware 3.6.0. Developed
+  as a group project at the Department of Bioengineering, Imperial College London,
+  under the supervision of Dr Ben Almquist.
+
+keywords:
+  - bioprinting
+  - FRESH
+  - syringe extrusion
+  - open hardware
+  - Replistruder
+  - collagen
+  - hydrogel
+  - Ender 5 Pro
+  - Duet3
+
+references:
+  - type: software
+    title: "Replistruder 5 Design Files"
+    authors:
+      - family-names: Tashman
+        given-names: Joshua W
+      - family-names: Shiwarski
+        given-names: Daniel J
+      - family-names: Feinberg
+        given-names: Adam W
+    doi: 10.5281/zenodo.7135874
+    repository-code: "https://doi.org/10.5281/zenodo.7135874"
+  - type: article
+    title: >
+      A high performance open-source syringe extruder optimized for extrusion
+      and retraction during FRESH 3D bioprinting
+    authors:
+      - family-names: Tashman
+        given-names: Joshua W
+      - family-names: Shiwarski
+        given-names: Daniel J
+      - family-names: Feinberg
+        given-names: Adam W
+    journal: HardwareX
+    year: 2021
+    volume: 9
+    doi: 10.1016/j.ohx.2020.e00170
+  - type: software
+    title: "FF Finder Bioprinter Firmware Configuration"
+    authors:
+      - name: "Shiwarski Tissue Engineering Lab"
+    doi: 10.5281/zenodo.7496012
