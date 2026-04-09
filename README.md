@@ -1,7 +1,7 @@
 # FRESH Bioprinter — Ender 5 Pro Conversion
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
+[![DOI](https://zenodo.org/badge/1205548614.svg)](https://doi.org/10.5281/zenodo.19479380)
 
 Open-source design files for the conversion of a Creality Ender 5 Pro desktop 3D printer into a syringe extrusion bioprinter capable of FRESH (Freeform Reversible Embedding of Suspended Hydrogels) 3D bioprinting. Developed as part of a group project at the Department of Bioengineering, Imperial College London, under the supervision of Dr Ben Almquist.
 
