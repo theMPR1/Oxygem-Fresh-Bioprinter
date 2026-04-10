@@ -12,13 +12,13 @@ The extruder is a modified Replistruder 5, with a GT2 belt drive replacing the o
 ## Contributors
 
 **Magor Pocsveiler** — Extruder Design, Firmware, Mechanical Build  
-**Vera Rachkova** — Extruder Design, Mechanical Build
+**Vera Rachkova** — Extruder Design, Mechanical Build  
 **Junyuan Guan** — Bioinks, Support Bath  
-**Hui Sin Phang** — Mechanical Build, Firmware
-**Hannah Seo** — Bioinks, Support Bath
-**Saad S Ayub** — Presentation
-**Zifeng T Guo** — Writing
-**Ricky Zhang** — Presentation, Writing
+**Hui Sin Phang** — Mechanical Build, Firmware  
+**Hannah Seo** — Bioinks, Support Bath  
+**Saad S Ayub** — Presentation  
+**Zifeng T Guo** — Writing  
+**Ricky Zhang** — Presentation, Writing  
 
 **Supervisor:** Dr Ben Almquist, Department of Bioengineering, Imperial College London
 
