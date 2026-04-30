@@ -7,16 +7,18 @@ Open-source design files for the conversion of a Creality Ender 5 Pro desktop 3D
 
 The extruder is a modified Replistruder 5, with a GT2 belt drive replacing the original planetary gearbox to reduce mechanical dead zone,  an anti-backlash nut and preloaded carriage sliders to minimise axial freeplay. Motion control is provided by a Duet 3 Mainboard 6HC running RepRapFirmware 3.6.0.
 
+For questions or issues, please open a GitHub Issue.
+
 ---
 
 ## Contributors
 
-**Magor Pocsveiler** — Extruder Design, Firmware, Mechanical Build  
-**Vera Rachkova** — Extruder Design, Mechanical Build  
-**Junyuan Guan** — Bioinks, Support Bath  
-**Hui Sin Phang** — Mechanical Build, Firmware  
+**Junyuan Guan** — Bioinks, Support Bath
+**Magor Pocsveiler** — Extruder Design, Firmware, Mechanical Assembly  
+**Vera Rachkova** — Extruder Design, Mechanical Assembly  
 **Hannah Seo** — Bioinks, Support Bath  
-**Saad S Ayub** — Presentation  
+**Hui Sin Phang** — Mechanical Build, Firmware  
+**Saad S Ayub** — Presentation, Writing
 **Zifeng T Guo** — Writing  
 **Ricky Zhang** — Presentation, Writing  
 
